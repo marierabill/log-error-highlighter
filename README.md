@@ -10,6 +10,6 @@ A simple Python script that parses log files and highlights **errors, warnings, 
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/log-error-highlighter.git
+git clone https://github.com/marierabill/log-error-highlighter.git
 cd log-error-highlighter
 pip install -r requirements.txt
